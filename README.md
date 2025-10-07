@@ -3,8 +3,8 @@
 ## Overview
 A Next.js application with Firebase authentication featuring user registration, login, and protected routes.
 
-![alt text](login-page.png)
-![alt text](home-page.png)
+![alt text](public/login-page.png)
+![alt text](public/home-page.png)
 
 ## Architecture Decisions:
 
