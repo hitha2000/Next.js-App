@@ -3,6 +3,9 @@
 ## Overview
 A Next.js application with Firebase authentication featuring user registration, login, and protected routes.
 
+![alt text](login-page.png)
+![alt text](home-page.png)
+
 ## Architecture Decisions:
 
 1. **Firebase Authentication:** Chose Firebase for its robust, production-ready authentication system that handles security, password hashing, and session management automatically.
